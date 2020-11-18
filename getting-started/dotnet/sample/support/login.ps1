@@ -1,0 +1,1 @@
+﻿aws codeartifact login --domain example-domain --repository nuget-team --tool nuget --region us-west-2

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetCodeArtifact", "NugetCodeArtifact\NugetCodeArtifact.csproj", "{2572D325-03A6-4DE6-885C-7570BEAA2E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{B8D2CE51-82DF-476F-83D9-B9ED2102C4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2572D325-03A6-4DE6-885C-7570BEAA2E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2572D325-03A6-4DE6-885C-7570BEAA2E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2572D325-03A6-4DE6-885C-7570BEAA2E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2572D325-03A6-4DE6-885C-7570BEAA2E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D2CE51-82DF-476F-83D9-B9ED2102C4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D2CE51-82DF-476F-83D9-B9ED2102C4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D2CE51-82DF-476F-83D9-B9ED2102C4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D2CE51-82DF-476F-83D9-B9ED2102C4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E83262-A267-4088-B60B-FC7E340157D7}
+	EndGlobalSection
+EndGlobal
