@@ -25,7 +25,6 @@ Resources:
   # Create External Repository
   MyExternalRepository:
     Type: AWS::CodeArtifact::Repository
-    Condition: ProvisionNugetTeamAndUpstream
     Properties:
       DomainName: !GetAtt ExampleDomain.Name
       RepositoryName: my-external-repository       
